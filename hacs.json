@@ -1,5 +1,6 @@
 {
   "name": "Hello LightDark Theme",
+  "type": "theme",
   "homeassistant": "2022.2.0",
-  "filename": "lightdark-theme.yaml"
+  "render_readme": true
 }
