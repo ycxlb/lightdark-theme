@@ -1,0 +1,6 @@
+{
+  "name": "Hello Light/Dark Theme",
+  "content_in_root": false,
+  "type": "theme",
+  "homeassistant": "2022.2.0"
+}
