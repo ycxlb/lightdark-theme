@@ -1,0 +1,8 @@
+my_light:
+  name: "My Light Theme"
+  primary-color: "#2196F3"
+  accent-color: "#FF9800"
+  text-primary-color: "#000000"
+  text-secondary-color: "#444444"
+  background-color: "#FFFFFF"
+  card-background-color: "#FAFAFA"
