@@ -2,4 +2,5 @@
   "name": "Hello LightDark Theme",
   "homeassistant": "2022.2.0",
   "filename": "lightdark-theme.yml"
+  "icon": "mdi:compost"
 }
