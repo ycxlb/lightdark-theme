@@ -1,8 +1,0 @@
-my_dark:
-  name: "My Dark Theme"
-  primary-color: "#90CAF9"
-  accent-color: "#FFB74D"
-  text-primary-color: "#FFFFFF"
-  text-secondary-color: "#BBBBBB"
-  background-color: "#121212"
-  card-background-color: "#1E1E1E"
